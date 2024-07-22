@@ -48,7 +48,8 @@ System.out.println(totalAmount);
 	  
  }
  
- 
+ //Print All course titles and their respective Prices
+
  
 	}
 
